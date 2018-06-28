@@ -1,4 +1,5 @@
-
+def newLine():
+    print()
 print("First Line.")
 newLine()
 print("Second Line.")	
@@ -11,7 +12,5 @@ print("First Line.")
 threeLine()
 print("second Line.")
 	
-def newLine():
-    print()
-		
+
 	
